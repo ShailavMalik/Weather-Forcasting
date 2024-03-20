@@ -1,6 +1,4 @@
-<br>
-
-![Application screenshot](./public/screenshot.png)
+![screenshot](./public/screenshot.png)
 
 <br/>
 <br/>
@@ -46,21 +44,22 @@ git clone https://github.com/ShailavMalik/Weather-Forcasting
 
 ## 📙 Used libraries
 
-- `react-js`
-- `material-ui`
+- `React-Js`
+- `Material-UI`
 
 Check `packages.json` for details
 
 <br/>
 
-## 📄 Todos
+## 📄Future Enhancements: 
 
-- [ ] Styled-components
-- [ ] Convert the entire project to TypeScript
-- [ ] Unit Testing
-- [ ] On launch, find user location weather by utilizing GeolocationAPI/GEOCODING
-- [ ] Celcius/Fahrenheit conversion
-- [ ] Dark/Light Mode
+- On launch, find user location weather automatically
+- Integration of any natural disaster prediction in the location.
+- Integration of local time and international time in that location, we can add this using any Api.
+-	We can add top weather headlines in the nearby locations as well.
+- We can add last 10 days’ time line of weather forecasting of the selected location as well.
+- Integration of future weather prediction using Machine learning technologies.
+
 
 <br/>
 
